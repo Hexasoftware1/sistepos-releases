@@ -1,5 +1,5 @@
-desktop/win-unpacked
-desktop/builder-debug.yml
-desktop/builder-effective-config.yaml
-desktop/latest.yml
-desktop/Sistepos Setup 0.1.0.exe.blockmap
+latest.yml
+latest-linux.yml
+*.exe
+*.AppImage
+*.deb
